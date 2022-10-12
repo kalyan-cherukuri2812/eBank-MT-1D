@@ -1,0 +1,39 @@
+.home-bg-container {
+  background-color: #152850;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 30px;
+}
+
+.logo {
+  width: 110px;
+}
+.logout-btn {
+  background-color: transparent;
+  font-family: roboto;
+  color: white;
+  border: 1px solid white;
+  padding: 5px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.home-h {
+  font-family: roboto;
+  color: white;
+  align-self: center;
+  margin-top: 80px;
+}
+.card-img {
+  align-self: center;
+  width: 500px;
+  margin: 30px;
+}
